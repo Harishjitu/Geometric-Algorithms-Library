@@ -1,0 +1,3 @@
+/Users/harishjitusaseendran/dev/Geometric-Algorithms-Library/build/CMakeFiles/GeometricAlgorithmsLibrary.dir
+/Users/harishjitusaseendran/dev/Geometric-Algorithms-Library/build/CMakeFiles/edit_cache.dir
+/Users/harishjitusaseendran/dev/Geometric-Algorithms-Library/build/CMakeFiles/rebuild_cache.dir
